@@ -27,9 +27,9 @@ This workshop will only accept papers that have not been previously published.
 Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines ( [Click here](https://www.ieee.org/conferences/publishing/templates.html). 
 
 Accepted paper formats (references are counted within the page limits):
-•	Abstract (up to 2 pages)
-•	Short paper (up to 6 pages)
-•	Regular paper (up to 10 pages)
+*	Abstract (up to **2** pages)
+*	Short paper (up to **6** pages)
+*	Regular paper (up to **10** pages)
 
 [Please click here to Submit your paper!](https://easychair.org/conferences/?conf=ieeeichi2024)
 
@@ -39,10 +39,10 @@ Accepted papers will be published in the IEEE ICHI 2024 proceedings (on IEEE Xpl
 All submitted papers will be reviewed by 3 international program committees.
 
 ## Important Dates:
-•	Deadline for full paper submissions: **March 1st, 2024**
-•	Notification of workshop paper acceptance: **March 21th, 2024**
-•	Camera ready workshop paper due: **March 30th, 2024**
-•	Workshop Day (firmed): **June 3, 2024**
+*	Deadline for full paper submissions: **March 1st, 2024**
+*	Notification of workshop paper acceptance: **March 21th, 2024**
+*	Camera ready workshop paper due: **March 30th, 2024**
+*	Workshop Day (firmed): **June 3, 2024**
 
 ## Workshop Organizers
 #### General Chairs
