@@ -24,7 +24,7 @@ Topics include, but are not limited to:
 
 ## Paper submission instructions
 This workshop will only accept papers that have not been previously published. 
-Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines ( [Click here](https://www.ieee.org/conferences/publishing/templates.html). 
+Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines ( [Click here](https://www.ieee.org/conferences/publishing/templates.html)). 
 
 Accepted paper formats (references are counted within the page limits):
 *	Abstract (up to **2** pages)
