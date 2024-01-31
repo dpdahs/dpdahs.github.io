@@ -5,8 +5,8 @@ layout: default
 
 ## Objectives and Research Topics/Areas
 The primary aim of this interdisciplinary workshop is to bring together researchers and practitioners to deliberate on technical and non-technical issues, and investigate uncharted challenges and solutions in the domains of Data Privacy and Data Analysis in Healthcare systems. In fact, privacy concerns at local sites holding large data may limit sharing of individual-level records, requiring new algorithmic methods to leverage distributed data while addressing diverse privacy needs. Knowledge discovery and clinical support methods based on emerging artificial intelligence methods require novel privacy frameworks to minimize privacy harm to patients contributing to the data. To address this urgent need, this workshop aims at collecting the most innovative state-of-the-art solutions to support privacy-protecting clinical data analysis.
+
 Topics include, but are not limited to: 
-##### Header 5
 1.	Privacy and Data Sharing: investigating the challenges of maximizing data usability while safeguarding patient privacy
 2.	Trustworthy AI systems: examining the potential impacts of emerging AI models in biomedical applications, including privacy risks and predictive bias
 3.	Decentralized data analysis: exploring emerging techniques for leveraging data across multiple sites
@@ -22,38 +22,37 @@ Topics include, but are not limited to:
 13.	Privacy-aware data integration for healthcare data sharing
 14.	Applying Artificial intelligence in healthcare
 
->Paper submission instructions
+## Paper submission instructions
 This workshop will only accept papers that have not been previously published. 
-Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (https://www.ieee.org/conferences/publishing/templates.html).
+Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines ( [Click here](https://www.ieee.org/conferences/publishing/templates.html). 
 
 Accepted paper formats (references are counted within the page limits):
 •	Abstract (up to 2 pages)
 •	Short paper (up to 6 pages)
 •	Regular paper (up to 10 pages)
 
-Please click here to Submit your paper!
+[Please click here to Submit your paper!](https://easychair.org/conferences/?conf=ieeeichi2024)
 
-Accepted papers will be published in the IEEE ICHI 2024 proceedings (on IEEE Xplore – Indexed on Scopus and many other platforms). For further information, please see IEEE ICHI 2024 web page @
-https://ieeeichi2024.github.io/call_for_papers.html.
+Accepted papers will be published in the IEEE ICHI 2024 proceedings (on IEEE Xplore – Indexed on Scopus and many other platforms). For further information, please see IEEE ICHI 2024 web page @ https://ieeeichi2024.github.io/.
 
 ## Review procedure 
 All submitted papers will be reviewed by 3 international program committees.
 
 ## Important Dates:
-•	Deadline for full paper submissions: March 1st, 2024
-•	Notification of workshop paper acceptance: March 21th, 2024
-•	Camera ready workshop paper due March 30th, 2024
-•	Workshop Day (firmed): June 3, 2024
+•	Deadline for full paper submissions: **March 1st, 2024**
+•	Notification of workshop paper acceptance: **March 21th, 2024**
+•	Camera ready workshop paper due: **March 30th, 2024**
+•	Workshop Day (firmed): **June 3, 2024**
 
 ## Workshop Organizers
 #### General Chairs
 * Matteo Mantovani, Ph.D.
 Assistant Professor, Department of Computer Science, University of Verona, Italy
-Email:  matteo.mantovani@univr.it
+Email:  [matteo.mantovani@univr.it](mailto:matteo.mantovani@univr.it)
 
 * Luca Bonomi, Ph.D.
 Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA
-Email: luca.bonomi@vumc.org  
+Email: [luca.bonomi@vumc.org](mailto:luca.bonomi@vumc.org)  
  
 #### Technical Program Committee
 
