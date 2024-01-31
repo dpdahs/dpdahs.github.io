@@ -54,17 +54,6 @@ Email:  [matteo.mantovani@univr.it](mailto:matteo.mantovani@univr.it)
 Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA
 Email: [luca.bonomi@vumc.org](mailto:luca.bonomi@vumc.org)  
 
-<dl>
-<dt>* Matteo Mantovani, Ph.D.</dt>
-<dd>Assistant Professor, Department of Computer Science, University of Verona, Italy</dd>
-<dd>Email:  [matteo.mantovani@univr.it](mailto:matteo.mantovani@univr.it)</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 #### Technical Program Committee
 
