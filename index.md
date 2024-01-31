@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Header 2
-> Objectives and Research Topics/Areas
+
+## Objectives and Research Topics/Areas
 The primary aim of this interdisciplinary workshop is to bring together researchers and practitioners to deliberate on technical and non-technical issues, and investigate uncharted challenges and solutions in the domains of Data Privacy and Data Analysis in Healthcare systems. In fact, privacy concerns at local sites holding large data may limit sharing of individual-level records, requiring new algorithmic methods to leverage distributed data while addressing diverse privacy needs. Knowledge discovery and clinical support methods based on emerging artificial intelligence methods require novel privacy frameworks to minimize privacy harm to patients contributing to the data. To address this urgent need, this workshop aims at collecting the most innovative state-of-the-art solutions to support privacy-protecting clinical data analysis.
 Topics include, but are not limited to: 
 ##### Header 5
@@ -36,37 +36,32 @@ Please click here to Submit your paper!
 Accepted papers will be published in the IEEE ICHI 2024 proceedings (on IEEE Xplore – Indexed on Scopus and many other platforms). For further information, please see IEEE ICHI 2024 web page @
 https://ieeeichi2024.github.io/call_for_papers.html.
 
-## Header 2
->Review procedure 
+## Review procedure 
 All submitted papers will be reviewed by 3 international program committees.
 
-## Header 2
->Important Dates:
+## Important Dates:
 •	Deadline for full paper submissions: March 1st, 2024
 •	Notification of workshop paper acceptance: March 21th, 2024
 •	Camera ready workshop paper due March 30th, 2024
 •	Workshop Day (firmed): June 3, 2024
 
-## Header 2
->Workshop Organizers
-* General Chairs
-Matteo Mantovani, Ph.D.
+## Workshop Organizers
+#### General Chairs
+* Matteo Mantovani, Ph.D.
 Assistant Professor, Department of Computer Science, University of Verona, Italy
 Email:  matteo.mantovani@univr.it
 
-Luca Bonomi, Ph.D.
+* Luca Bonomi, Ph.D.
 Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA
 Email: luca.bonomi@vumc.org  
  
-* Technical Program Committee
-Program committee members:
-Name	Position	   Affiliation	Email
-Matteo Mantovani	Assistant Professor	Department of Computer Science, University of Verona, Italy	matteo.mantovani@univr.it
+#### Technical Program Committee
 
-Luca Bonomi	Assistant Professor	Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA	luca.bonomi@vumc.org
-
-Xiaoqian Jiang	Professor	School of Biomedical Informatics, UTHealth, TX, USA	Xiaoqian.Jiang@uth.tmc.edu
-
+|Name	| Position	   | Affiliation	| Email |
+|:------|:-------------|:---------------|:------|
+|Matteo Mantovani	| Assistant Professor	| Department of Computer Science, University of Verona, Italy |	matteo.mantovani@univr.it |
+|Luca Bonomi	Assistant Professor	Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA	luca.bonomi@vumc.org |
+|Xiaoqian Jiang	Professor	School of Biomedical Informatics, UTHealth, TX, USA	Xiaoqian.Jiang@uth.tmc.edu
 Alex MH Kuo	Professor	School of Health Information Science, University of Victoria, BC, Canada	akuo@uvic.ca
 
 Damiano Carra	Professor	Department of Computer Science, University of Verona, Italy 	damiano.carra@univr.it
