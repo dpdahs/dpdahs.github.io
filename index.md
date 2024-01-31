@@ -56,45 +56,16 @@ Email: [luca.bonomi@vumc.org](mailto:luca.bonomi@vumc.org)
  
 #### Technical Program Committee
 
-|Name	| Position	   | Affiliation	| Email |
-|:------|:-------------|:---------------|:------|
-|Matteo Mantovani	| Assistant Professor	| Department of Computer Science, University of Verona, Italy |	matteo.mantovani@univr.it |
-|Luca Bonomi	Assistant Professor	Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA	luca.bonomi@vumc.org |
-|Xiaoqian Jiang	Professor	School of Biomedical Informatics, UTHealth, TX, USA	Xiaoqian.Jiang@uth.tmc.edu
-Alex MH Kuo	Professor	School of Health Information Science, University of Victoria, BC, Canada	akuo@uvic.ca
-
-Damiano Carra	Professor	Department of Computer Science, University of Verona, Italy 	damiano.carra@univr.it
-
-Eliana Pastor	Assistant Professor	Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	eliana.pastor@polito.it
-
-Liyue Fan	Assistant Professor	College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	liyue.fan@uncc.edu
-
-Tsung-ting Kuo	Assistant Professor	Department of Biomedical Informatics, University of California at San Diego, CA, USA	tskuo@ucsd.edu
-
-Gamze Gürsoy	Assistant Professor	Department of Biomedical Informatics, Columbia University, NY, USA	ggursoy@nygenome.org
-
-Beatrice Amico	PostDoc	Department of Computer Science, University of Verona, Italy	beatrice.amico@univr.it
-
-Chao Yan	PostDoc	Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA	chao.yan.1@vumc.org
-
-
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Name	            | Position	            | Affiliation	                                                                             | Email                      |
+|:------------------|:----------------------|:-------------------------------------------------------------------------------------------|:---------------------------|
+| Matteo Mantovani	| Assistant Professor	| Department of Computer Science, University of Verona, Italy                                | matteo.mantovani@univr.it  |
+| Luca Bonomi	    | Assistant Professor	| Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA | luca.bonomi@vumc.org       |
+| Xiaoqian Jiang	| Professor	            | School of Biomedical Informatics, UTHealth, TX, USA	                                     | Xiaoqian.Jiang@uth.tmc.edu |        
+| Alex MH Kuo	    | Professor	            | School of Health Information Science, University of Victoria, BC, Canada                   | akuo@uvic.ca               |
+| Damiano Carra	    | Professor	            | Department of Computer Science, University of Verona, Italy 	                             | damiano.carra@univr.it     |
+| Eliana Pastor	    | Assistant Professor	| Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     | eliana.pastor@polito.it    |
+| Liyue Fan	        | Assistant Professor	| College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 | liyue.fan@uncc.edu         |
+| Tsung-ting Kuo	| Assistant Professor	| Department of Biomedical Informatics, University of California at San Diego, CA, USA	     | tskuo@ucsd.edu             |
+| Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     | ggursoy@nygenome.org       |
+| Beatrice Amico	| PostDoc	            | Department of Computer Science, University of Verona, Italy	                             | beatrice.amico@univr.it    |
+| Chao Yan	        | PostDoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA | chao.yan.1@vumc.org        |
