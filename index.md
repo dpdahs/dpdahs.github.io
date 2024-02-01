@@ -52,7 +52,7 @@ The reviewing process will be single-blind.
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="150"></td>
-    <td class="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Assistant Professor, Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br> &nbsp </td>
+    <td class="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Assistant Professor, Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="150"></td>
@@ -66,16 +66,16 @@ Assistant Professor, Department of Biomedical Informatics, Vanderbilt University
 
 #### Technical Program Committee
 
-| Name              | Position              | Affiliation                                                                                | Email                      |
-|:------------------|:----------------------|:-------------------------------------------------------------------------------------------|:---------------------------|
-| Matteo Mantovani	| Assistant Professor	| Department of Computer Science, University of Verona, Italy                                | matteo.mantovani@univr.it  |
-| Luca Bonomi	    | Assistant Professor	| Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA | luca.bonomi@vumc.org       |
-| Xiaoqian Jiang	| Professor	            | School of Biomedical Informatics, UTHealth, TX, USA	                                     | Xiaoqian.Jiang@uth.tmc.edu |        
-| Alex MH Kuo	    | Professor	            | School of Health Information Science, University of Victoria, BC, Canada                   | akuo@uvic.ca               |
-| Damiano Carra	    | Professor	            | Department of Computer Science, University of Verona, Italy 	                             | damiano.carra@univr.it     |
-| Eliana Pastor	    | Assistant Professor	| Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     | eliana.pastor@polito.it    |
-| Liyue Fan	        | Assistant Professor	| College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 | liyue.fan@uncc.edu         |
-| Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics, University of California at San Diego, CA, USA	     | tskuo@ucsd.edu             |
-| Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     | ggursoy@nygenome.org       |
-| Beatrice Amico	| PostDoc	            | Department of Computer Science, University of Verona, Italy	                             | beatrice.amico@univr.it    |
-| Chao Yan	        | PostDoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA | chao.yan.1@vumc.org        |
+| Name              | Position              | Affiliation                                                                                |
+|:------------------|:----------------------|:-------------------------------------------------------------------------------------------|
+| Matteo Mantovani	| Assistant Professor	| Department of Computer Science, University of Verona, Italy                                |
+| Luca Bonomi	    | Assistant Professor	| Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
+| Xiaoqian Jiang	| Professor	            | School of Biomedical Informatics, UTHealth, TX, USA	                                     |
+| Alex MH Kuo	    | Professor	            | School of Health Information Science, University of Victoria, BC, Canada                   |
+| Damiano Carra	    | Professor	            | Department of Computer Science, University of Verona, Italy 	                             |
+| Eliana Pastor	    | Assistant Professor	| Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     |
+| Liyue Fan	        | Assistant Professor	| College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 |
+| Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics, University of California at San Diego, CA, USA	     |
+| Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     |
+| Beatrice Amico	| PostDoc	            | Department of Computer Science, University of Verona, Italy	                             |
+| Chao Yan	        | PostDoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
