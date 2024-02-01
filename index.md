@@ -47,6 +47,7 @@ The reviewing process will be single-blind.
 
 #### General Chairs
 
+
 <table class="tg">
 <tbody>
   <tr>
@@ -74,7 +75,7 @@ Assistant Professor, Department of Biomedical Informatics, Vanderbilt University
 | Damiano Carra	    | Professor	            | Department of Computer Science, University of Verona, Italy 	                             | damiano.carra@univr.it     |
 | Eliana Pastor	    | Assistant Professor	| Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     | eliana.pastor@polito.it    |
 | Liyue Fan	        | Assistant Professor	| College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 | liyue.fan@uncc.edu         |
-| Tsung-ting Kuo	| Assistant Professor	| Department of Biomedical Informatics, University of California at San Diego, CA, USA	     | tskuo@ucsd.edu             |
+| Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics, University of California at San Diego, CA, USA	     | tskuo@ucsd.edu             |
 | Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     | ggursoy@nygenome.org       |
 | Beatrice Amico	| PostDoc	            | Department of Computer Science, University of Verona, Italy	                             | beatrice.amico@univr.it    |
 | Chao Yan	        | PostDoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA | chao.yan.1@vumc.org        |
