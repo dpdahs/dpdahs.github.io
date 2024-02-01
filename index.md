@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Workshop on Data Privacy and Data Analysis in Healthcare Systems
 ---
 
 
