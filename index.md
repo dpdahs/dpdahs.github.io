@@ -52,11 +52,11 @@ The reviewing process will be single-blind.
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="120"></td>
-    <td class="tg-0lax">Matteo Mantovani, Ph.D.<br>Assistant Professor, Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> </td>
+    <td class="tg-0lax pad">Matteo Mantovani, Ph.D.<br>Assistant Professor, Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> </td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="120"></td>
-    <td class="tg-0lax">Luca Bonomi, Ph.D.<br>
+    <td class="tg-0lax pad">Luca Bonomi, Ph.D.<br>
 Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA<br>
 <a href="mailto:luca.bonomi@vumc.org">luca.bonomi@vumc.org</a></td>
   </tr>
