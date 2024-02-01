@@ -47,13 +47,27 @@ The reviewing process will be single-blind.
 
 #### General Chairs
 
-* <img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="120">) Matteo Mantovani, Ph.D.
-Assistant Professor, Department of Computer Science, University of Verona, Italy
-Email:  [matteo.mantovani@univr.it](mailto:matteo.mantovani@univr.it)
-
-* <img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="120"> Luca Bonomi, Ph.D.
-Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA
-Email: [luca.bonomi@vumc.org](mailto:luca.bonomi@vumc.org)  
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="120"></td>
+    <td class="tg-0lax">Matteo Mantovani, Ph.D.<br>Assistant Professor, Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="120"></td>
+    <td class="tg-0lax">Luca Bonomi, Ph.D.<br>
+Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA<br>
+<a href="mailto:luca.bonomi@vumc.org">luca.bonomi@vumc.org</a></td>
+  </tr>
+</tbody>
+</table>
+  
 
 #### Technical Program Committee
 
