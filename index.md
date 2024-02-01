@@ -47,12 +47,6 @@ The reviewing process will be single-blind.
 
 #### General Chairs
 
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-spacing:0;}
-.tg td{border-style:solid;border-width:0px;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <tbody>
   <tr>
