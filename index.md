@@ -47,12 +47,11 @@ The reviewing process will be single-blind.
 
 #### General Chairs
 
-* ![Matteo](https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg) Matteo Mantovani, Ph.D.
+* <img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="120">) Matteo Mantovani, Ph.D.
 Assistant Professor, Department of Computer Science, University of Verona, Italy
 Email:  [matteo.mantovani@univr.it](mailto:matteo.mantovani@univr.it)
 
-* ![Luca](https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg) 
-<img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="120"> Luca Bonomi, Ph.D.
+* <img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="120"> Luca Bonomi, Ph.D.
 Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA
 Email: [luca.bonomi@vumc.org](mailto:luca.bonomi@vumc.org)  
 
