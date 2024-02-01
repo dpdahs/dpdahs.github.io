@@ -33,7 +33,8 @@ Accepted papers will be published in the IEEE ICHI 2024 proceedings (on IEEE Xpl
 
 ## Review procedure
 
-All submitted papers will be reviewed by 3 international program committees. The reviewing process will be single-blind.
+All submitted papers will be reviewed by 3 international program committees. 
+The reviewing process will be single-blind.
 
 ## Important Dates
 
@@ -46,11 +47,12 @@ All submitted papers will be reviewed by 3 international program committees. The
 
 #### General Chairs
 
-* Matteo Mantovani, Ph.D.
+* ![Matteo](https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg) Matteo Mantovani, Ph.D.
 Assistant Professor, Department of Computer Science, University of Verona, Italy
 Email:  [matteo.mantovani@univr.it](mailto:matteo.mantovani@univr.it)
 
-* Luca Bonomi, Ph.D.
+* ![Luca](https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg) 
+<img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="120"> Luca Bonomi, Ph.D.
 Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA
 Email: [luca.bonomi@vumc.org](mailto:luca.bonomi@vumc.org)  
 
