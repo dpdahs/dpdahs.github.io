@@ -12,15 +12,14 @@ Modern healthcare systems are generating massive amount of health data that coup
 
 Numerous privacy solutions have been proposed over the years but applications in real healthcare systems are limited.  Concerns regarding data fidelity, potential bias in predictive results, interpretability, and usability are among the limiting factors. To address these challenges, this workshop aims at collecting the most innovative state-of-the-art techniques, exploring new solutions, and fostering collaboration across domains to support the development of effective privacy-protecting health data analysis methods.  Through quality research papers and talks, the workshop will make a significant contribution toward the  development of novel information systems and computational methods to support a responsible use of health data in emerging technologies. 
 
-</div>
- 
-
 Topics include, but are not limited to:
 
 1. Privacy and Data Sharing: investigating the challenges of maximizing data usability while safeguarding patient privacy in healthcare data/EHR analytics, precision medicine, and data integration
 2. Trustworthy AI systems: examining the potential impacts of emerging AI models in biomedical applications, such as privacy risks and predictive bias; applications of AI in healthcare
 3. Decentralized Data Analysis: exploring emerging techniques for leveraging data across multiple sites including but not limited to blockchain-based technology, federated learning and swarm learning
 4. Health Data Analysis Infrastructure: including but not limited to methodologies and tools, visualization analytics, health management/repositories, and real-world  case studies
+
+</div>
 
 ## Paper submission instructions
 
@@ -53,17 +52,16 @@ The reviewing process will be single-blind.
 
 #### General Chairs
 
-
 <table class="tg">
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="150"></td>
-    <td class="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Assistant Professor, Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
+    <td class="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
   </tr>
   <tr>
     <td class="tg-0lax toppp"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="150"></td>
     <td class="pad tg-0lax tg-cly1">Luca Bonomi, Ph.D.<br>
-Assistant Professor, Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA<br>
+Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA<br>
 <a href="mailto:luca.bonomi@vumc.org">luca.bonomi@vumc.org</a></td>
   </tr>
 </tbody>
