@@ -6,9 +6,14 @@ title: Workshop on Data Privacy and Data Analysis in Healthcare Systems
 
 ## Objectives and Research Topics/Areas
 
+<div class="jt"> 
+
 Modern healthcare systems are generating massive amount of health data that coupled with exponential advances in technology and computing power have the potential for advancing medical research and improving patient care.  The ability to leverage these data also add significant privacy issues, requiring new approaches to investigate potential risks, safeguard patient privacy, and maintain data usability. This interdisciplinary workshop aims at addressing these challenges by bringing together researchers and practitioners to deliberate on technical and non-technical issues, and investigate uncharted challenges and solutions in the domains of Data Privacy and Data Analysis in Healthcare systems.
 
-Numerous privacy solutions have been proposed over the years but applications in real healthcare systems are limited.  Concerns regarding data fidelity, potential bias in predictive results, interpretability, and usability are among the limiting factors. To address these challenges, this workshop aims at collecting the most innovative state-of-the-art techniques, exploring new solutions, and fostering collaboration across domains to support the development of effective privacy-protecting health data analysis methods.  Through quality research papers and talks, the workshop will make a significant contribution toward the  development of novel information systems and computational methods to support a responsible use of health data in emerging technologies.  
+Numerous privacy solutions have been proposed over the years but applications in real healthcare systems are limited.  Concerns regarding data fidelity, potential bias in predictive results, interpretability, and usability are among the limiting factors. To address these challenges, this workshop aims at collecting the most innovative state-of-the-art techniques, exploring new solutions, and fostering collaboration across domains to support the development of effective privacy-protecting health data analysis methods.  Through quality research papers and talks, the workshop will make a significant contribution toward the  development of novel information systems and computational methods to support a responsible use of health data in emerging technologies. 
+
+</div>
+ 
 
 Topics include, but are not limited to:
 
