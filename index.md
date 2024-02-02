@@ -16,13 +16,13 @@ Numerous privacy solutions have been proposed over the years but applications in
 
 Topics include, but are not limited to:
 
-**1.** Privacy and Data Sharing: investigating the challenges of maximizing data usability while safeguarding patient privacy in healthcare data/EHR analytics, precision medicine, and data integration
+**1. Privacy and Data Sharing**: investigating the challenges of maximizing data usability while safeguarding patient privacy in healthcare data/EHR analytics, precision medicine, and data integration
 
-**2.** Trustworthy AI systems: examining the potential impacts of emerging AI models in biomedical applications, such as privacy risks and predictive bias; applications of AI in healthcare
+**2. Trustworthy AI systems**: examining the potential impacts of emerging AI models in biomedical applications, such as privacy risks and predictive bias; applications of AI in healthcare
 
-**3.** Decentralized Data Analysis: exploring emerging techniques for leveraging data across multiple sites including but not limited to blockchain-based technology, federated learning and swarm learning
+**3. Decentralized Data Analysis**: exploring emerging techniques for leveraging data across multiple sites including but not limited to blockchain-based technology, federated learning and swarm learning
 
-**4.** Health Data Analysis Infrastructure: including but not limited to methodologies and tools, visualization analytics, health management/repositories, and real-world  case studies
+**4. Health Data Analysis Infrastructure**: including but not limited to methodologies and tools, visualization analytics, health management/repositories, and real-world  case studies
 
 
 
