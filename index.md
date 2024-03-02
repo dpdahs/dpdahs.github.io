@@ -48,9 +48,9 @@ The reviewing process will be single-blind.
 
 ## Important Dates
 
-* Deadline for full paper submissions: **March 1st, 2024**
-* Notification of workshop paper acceptance: **March 21th, 2024**
-* Camera ready workshop paper due: **March 30th, 2024**
+* Deadline for full paper submissions: ~~March 1st, 2024~~ **March 21st, 2024**
+* Notification of workshop paper acceptance: ~~March 21th, 2024~~ **April 12th, 2024**
+* Camera ready workshop paper due: ~~March 30th, 2024~~ **April 21st, 2024**
 * Workshop Day (firm): **June 3, 2024**
 
 ## Workshop Organizers
