@@ -60,12 +60,12 @@ The reviewing process will be single-blind.
 <table class="tg">
 <tbody>
   <tr>
-    <tdclass="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="150"></td>
-    <tdclass="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
+    <td class="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="150"></td>
+    <td class="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
   </tr>
   <tr>
-    <tdclass="tg-0lax toppp"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="150"></td>
-    <tdclass="pad tg-0lax tg-cly1">Luca Bonomi, Ph.D.<br>
+    <td class="tg-0lax toppp"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="150"></td>
+    <td class="pad tg-0lax tg-cly1">Luca Bonomi, Ph.D.<br>
 Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA<br>
 <a href="mailto:luca.bonomi@vumc.org">luca.bonomi@vumc.org</a></td>
   </tr>
@@ -89,7 +89,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 | Chao Yan	        | Postdoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
 
 
-### Program
+### Program (Draft)
 
 
 <table>
@@ -101,11 +101,11 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
     </thead>
     <tbody>
         <tr>
-            <td>1:00 pm&nbsp;&nbsp;&nbsp;– 1:10 pm</td>
+            <td>1:00 pm<br>–<br>1:10 pm</td>
             <td colspan="3">Welcome from the&nbsp;&nbsp;&nbsp;Workshop Chairs</td>
         </tr>
         <tr>
-            <td>1:10 pm – 2:10 pm</td>
+            <td class="tdCenter">1:10 pm<br>–<br>2:10 pm</td>
             <td colspan="3"><em> Keynote by Prof. Jiang Biang, PhD - "Real-world&nbsp;&nbsp;&nbsp;data, real-world problems, and real-world opportunities with AI"  </em></td>
         </tr>
         <tr>
@@ -115,7 +115,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
             <td><strong>Title</strong></td>
         </tr>
         <tr>
-            <td>2:10 pm – 2:30 pm</td>
+            <td class="tdCenter">2:10 pm<br>–<br>2:30 pm</td>
             <td class="tdCenter">196</td>
             <td>Lalitha Donga, Shreya Pramod,&nbsp;&nbsp;&nbsp;Sumita Mishra and Rajendra K. Raj</td>
             <td>A Proactive Digital Chain of&nbsp;&nbsp;&nbsp;Custody for Internet of Healthcare Things (IoHT) Data</td>
