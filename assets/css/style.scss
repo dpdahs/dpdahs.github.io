@@ -10,7 +10,7 @@
     border-spacing: 0;
 }
 
-.tg td {
+.tg td{
     border: none;
     border-style: hidden;
     border-width: 0px;
@@ -44,4 +44,8 @@
 
 .jt {
     text-align: justify;
+}
+
+.tdCenter {
+    text-align: center !important;
 }

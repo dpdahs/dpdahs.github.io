@@ -60,12 +60,12 @@ The reviewing process will be single-blind.
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="150"></td>
-    <td class="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
+    <tdclass="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="150"></td>
+    <tdclass="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
   </tr>
   <tr>
-    <td class="tg-0lax toppp"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="150"></td>
-    <td class="pad tg-0lax tg-cly1">Luca Bonomi, Ph.D.<br>
+    <tdclass="tg-0lax toppp"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="150"></td>
+    <tdclass="pad tg-0lax tg-cly1">Luca Bonomi, Ph.D.<br>
 Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA<br>
 <a href="mailto:luca.bonomi@vumc.org">luca.bonomi@vumc.org</a></td>
   </tr>
@@ -85,5 +85,75 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 | Liyue Fan	        | Assistant Professor	| College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 |
 | Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics, University of California at San Diego, CA, USA	     |
 | Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     |
-| Beatrice Amico	| PostDoc	            | Department of Computer Science, University of Verona, Italy	                             |
-| Chao Yan	        | PostDoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
+| Beatrice Amico	| Postdoc	            | Department of Computer Science, University of Verona, Italy	                             |
+| Chao Yan	        | Postdoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
+
+
+### Program
+
+
+<table>
+    <thead>
+        <tr>
+            <th >Time slot</th>
+            <th colspan="3">Activity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1:00 pm&nbsp;&nbsp;&nbsp;– 1:10 pm</td>
+            <td colspan="3">Welcome from the&nbsp;&nbsp;&nbsp;Workshop Chairs</td>
+        </tr>
+        <tr>
+            <td>1:10 pm – 2:10 pm</td>
+            <td colspan="3"><em> Keynote by Prof. Jiang Biang, PhD - "Real-world&nbsp;&nbsp;&nbsp;data, real-world problems, and real-world opportunities with AI"  </em></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><strong>Paper ID</strong></td>
+            <td><strong>Authors</strong></td>
+            <td><strong>Title</strong></td>
+        </tr>
+        <tr>
+            <td>2:10 pm – 2:30 pm</td>
+            <td class="tdCenter">196</td>
+            <td>Lalitha Donga, Shreya Pramod,&nbsp;&nbsp;&nbsp;Sumita Mishra and Rajendra K. Raj</td>
+            <td>A Proactive Digital Chain of&nbsp;&nbsp;&nbsp;Custody for Internet of Healthcare Things (IoHT) Data</td>
+        </tr>
+        <tr>
+            <td>2:30 pm – 2:50 pm</td>
+            <td></td>
+            <td colspan="2">Coffee Break&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;Event/Exhibition Space</td>
+        </tr>
+        <tr>
+            <td>2:50 pm – 3:10 pm</td>
+            <td>216</td>
+            <td>Syauki A. Thamrin and Arbee L.P.&nbsp;&nbsp;&nbsp;Chen</td>
+            <td>Detection of Bipolar Disorder on&nbsp;&nbsp;&nbsp;Social Media Data Utilizing Biomedical, Clinical and Mental Health Domain&nbsp;&nbsp;&nbsp;Fine-Tuned Word Embeddings</td>
+        </tr>
+        <tr>
+            <td>3:10 pm – 3:30 pm</td>
+            <td class="tdCenter">209</td>
+            <td>Anuradha Mahato, Prateek&nbsp;&nbsp;&nbsp;Sarangi, Vinod Kurmi, Abhirup Banerjee, Abhishek Goyal and Tanmay Basu</td>
+            <td>Uncertainty Quantification in&nbsp;&nbsp;&nbsp;Deep Learning Framework for Mallampati Classification</td>
+        </tr>
+        <tr>
+            <td>3:30 pm – 3:50 pm</td>
+            <td>219</td>
+            <td>Riccardo Scheda, Matteo&nbsp;&nbsp;&nbsp;Mantovani, Carlo Combi and Stefano Diciotti</td>
+            <td>A key performance indicator to&nbsp;&nbsp;&nbsp;analyze swarm learning performances with EHR</td>
+        </tr>
+        <tr>
+            <td>3:50 pm – 4:10 pm</td>
+            <td>193</td>
+            <td>Priyanka Gupta, Arunachala Amuda&nbsp;&nbsp;&nbsp;Murugan, Deep Chordia, Pavan Kumar Reddy Yannam and Manik Gupta</td>
+            <td>A Comparative Study of Few-Shot&nbsp;&nbsp;&nbsp;Learning Methods for 1-D ECG Time-series Classification</td>
+        </tr>
+        <tr>
+            <td>4:10 pm – 4:30 pm</td>
+            <td  class="tdCenter">225</td>
+            <td>Oshani Seneviratne</td>
+            <td>Decentralized, Explainable, and&nbsp;&nbsp;&nbsp;Personalized Mental Health Monitoring</td>
+        </tr>
+    </tbody>
+</table>
