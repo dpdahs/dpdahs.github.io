@@ -122,12 +122,11 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
         </tr>
         <tr>
             <td>2:30 pm – 2:50 pm</td>
-            <td></td>
-            <td colspan="2">Coffee Break&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;Event/Exhibition Space</td>
+            <td colspan="3">Coffee Break&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;Event/Exhibition Space</td>
         </tr>
         <tr>
             <td>2:50 pm – 3:10 pm</td>
-            <td>216</td>
+            <td class="tdCenter">216</td>
             <td>Syauki A. Thamrin and Arbee L.P.&nbsp;&nbsp;&nbsp;Chen</td>
             <td>Detection of Bipolar Disorder on&nbsp;&nbsp;&nbsp;Social Media Data Utilizing Biomedical, Clinical and Mental Health Domain&nbsp;&nbsp;&nbsp;Fine-Tuned Word Embeddings</td>
         </tr>
@@ -139,13 +138,13 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
         </tr>
         <tr>
             <td>3:30 pm – 3:50 pm</td>
-            <td>219</td>
+            <td class="tdCenter">219</td>
             <td>Riccardo Scheda, Matteo&nbsp;&nbsp;&nbsp;Mantovani, Carlo Combi and Stefano Diciotti</td>
             <td>A key performance indicator to&nbsp;&nbsp;&nbsp;analyze swarm learning performances with EHR</td>
         </tr>
         <tr>
             <td>3:50 pm – 4:10 pm</td>
-            <td>193</td>
+            <td class="tdCenter">193</td>
             <td>Priyanka Gupta, Arunachala Amuda&nbsp;&nbsp;&nbsp;Murugan, Deep Chordia, Pavan Kumar Reddy Yannam and Manik Gupta</td>
             <td>A Comparative Study of Few-Shot&nbsp;&nbsp;&nbsp;Learning Methods for 1-D ECG Time-series Classification</td>
         </tr>
