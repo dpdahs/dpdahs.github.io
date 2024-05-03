@@ -121,35 +121,35 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
             <td>A Proactive Digital Chain of&nbsp;&nbsp;&nbsp;Custody for Internet of Healthcare Things (IoHT) Data</td>
         </tr>
         <tr>
-            <td>2:30 pm – 2:50 pm</td>
+            <td>2:30 pm<br>–<br>2:50 pm</td>
             <td colspan="3">Coffee Break&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;Event/Exhibition Space</td>
         </tr>
         <tr>
-            <td>2:50 pm – 3:10 pm</td>
+            <td>2:50 pm<br>–<br>3:10 pm</td>
             <td class="tdCenter">216</td>
             <td>Syauki A. Thamrin and Arbee L.P.&nbsp;&nbsp;&nbsp;Chen</td>
             <td>Detection of Bipolar Disorder on&nbsp;&nbsp;&nbsp;Social Media Data Utilizing Biomedical, Clinical and Mental Health Domain&nbsp;&nbsp;&nbsp;Fine-Tuned Word Embeddings</td>
         </tr>
         <tr>
-            <td>3:10 pm – 3:30 pm</td>
+            <td>3:10 pm<br>–<br>3:30 pm</td>
             <td class="tdCenter">209</td>
             <td>Anuradha Mahato, Prateek&nbsp;&nbsp;&nbsp;Sarangi, Vinod Kurmi, Abhirup Banerjee, Abhishek Goyal and Tanmay Basu</td>
             <td>Uncertainty Quantification in&nbsp;&nbsp;&nbsp;Deep Learning Framework for Mallampati Classification</td>
         </tr>
         <tr>
-            <td>3:30 pm – 3:50 pm</td>
+            <td>3:30 pm<br>–<br>3:50 pm</td>
             <td class="tdCenter">219</td>
             <td>Riccardo Scheda, Matteo&nbsp;&nbsp;&nbsp;Mantovani, Carlo Combi and Stefano Diciotti</td>
             <td>A key performance indicator to&nbsp;&nbsp;&nbsp;analyze swarm learning performances with EHR</td>
         </tr>
         <tr>
-            <td>3:50 pm – 4:10 pm</td>
+            <td>3:50 pm<br>–<br>4:10 pm</td>
             <td class="tdCenter">193</td>
             <td>Priyanka Gupta, Arunachala Amuda&nbsp;&nbsp;&nbsp;Murugan, Deep Chordia, Pavan Kumar Reddy Yannam and Manik Gupta</td>
             <td>A Comparative Study of Few-Shot&nbsp;&nbsp;&nbsp;Learning Methods for 1-D ECG Time-series Classification</td>
         </tr>
         <tr>
-            <td>4:10 pm – 4:30 pm</td>
+            <td>4:10 pm<br>–<br>4:30 pm</td>
             <td  class="tdCenter">225</td>
             <td>Oshani Seneviratne</td>
             <td>Decentralized, Explainable, and&nbsp;&nbsp;&nbsp;Personalized Mental Health Monitoring</td>
