@@ -106,7 +106,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
         </tr>
         <tr>
             <td class="tdCenter">1:10 pm<br>–<br>2:10 pm</td>
-            <td colspan="3"><em> Keynote by Prof. Jiang Biang, PhD - "Real-world&nbsp;&nbsp;&nbsp;data, real-world problems, and real-world opportunities with AI"  </em></td>
+            <td colspan="3"><em> Keynote by Prof. Jiang Bian, PhD - "Real-world&nbsp;&nbsp;&nbsp;data, real-world problems, and real-world opportunities with AI"  </em></td>
         </tr>
         <tr>
             <td></td>
