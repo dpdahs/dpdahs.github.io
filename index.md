@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Workshop on Data Privacy and Data Analysis in Healthcare Systems
+title: The 2nd Workshop on Data Privacy and Data Analysis in Healthcare Systems (DPDAHS)
 ---
 
 
@@ -10,7 +10,7 @@ title: Workshop on Data Privacy and Data Analysis in Healthcare Systems
 
 Modern healthcare systems are generating massive amount of health data that coupled with exponential advances in technology and computing power have the potential for advancing medical research and improving patient care.  The ability to leverage these data also add significant privacy issues, requiring new approaches to investigate potential risks, safeguard patient privacy, and maintain data usability. This interdisciplinary workshop aims at addressing these challenges by bringing together researchers and practitioners to deliberate on technical and non-technical issues, and investigate uncharted challenges and solutions in the domains of Data Privacy and Data Analysis in Healthcare systems.
 
-Numerous privacy solutions have been proposed over the years but applications in real healthcare systems are limited.  Concerns regarding data fidelity, potential bias in predictive results, interpretability, and usability are among the limiting factors. To address these challenges, this workshop aims at collecting the most innovative state-of-the-art techniques, exploring new solutions, and fostering collaboration across domains to support the development of effective privacy-protecting health data analysis methods.  Through quality research papers and talks, the workshop will make a significant contribution toward the  development of novel information systems and computational methods to support a responsible use of health data in emerging technologies. 
+Numerous privacy solutions have been proposed over the years but applications in real healthcare systems are limited.  Concerns regarding data fidelity, potential bias in predictive results, interpretability, and usability are among the limiting factors. To address these challenges, this workshop aims at collecting the most innovative state-of-the-art techniques, exploring new solutions, and fostering collaboration across domains to support the development of effective privacy-protecting health data analysis methods.  Through quality research papers and talks, the workshop will make a significant contribution toward the  development of novel information systems and computational methods to support a responsible use of health data in emerging technologies.
 
 </div>
 
@@ -37,21 +37,21 @@ Accepted paper formats (references are counted within the page limits):
 * Short paper (up to **6** pages)
 * Regular paper (up to **10** pages)
 
-[Please click here to Submit your paper!](https://easychair.org/conferences/?conf=ieeeichi2024)
+[Please click here to Submit your paper!](https://easychair.org/conferences/?conf=ieeeichi2025)
 
-Accepted papers will be published in the IEEE ICHI 2024 proceedings (on IEEE Xplore – Indexed on Scopus and many other platforms). For further information, please see IEEE ICHI 2024 web page @ [https://ieeeichi2024.github.io/](https://ieeeichi2024.github.io/).
+Accepted papers will be published in the IEEE ICHI 2025 proceedings (on IEEE Xplore – Indexed on Scopus and many other platforms). For further information, please see IEEE ICHI 2025 web page @ [https://events.dimes.unical.it/ichi2025/](https://events.dimes.unical.it/ichi2025/).
 
 ## Review procedure
 
-All submitted papers will be reviewed by 3 international program committees. 
-The reviewing process will be single-blind.
+All submitted papers will be reviewed by 3 international program committees.
+The reviewing process will be **single-blind**.
 
 ## Important Dates
 
-* Deadline for full paper submissions: ~~March 1st, 2024~~ **March 21st, 2024**
-* Notification of workshop paper acceptance: ~~March 21th, 2024~~ **April 12th, 2024**
-* Camera ready workshop paper due: ~~March 30th, 2024~~ **April 21st, 2024**
-* Workshop Day (firm): **June 3, 2024**
+* Deadline for full paper submissions: **March 1st, 2025**
+* Notification of workshop paper acceptance: **March 18th, 2025**
+* Camera ready workshop paper due: **April 1st, 2025**
+* Workshop Day (firm): **TBA** (between June 18th and June 21th, 2025)
 
 ## Workshop Organizers
 
@@ -72,7 +72,9 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 </tbody>
 </table>
   
-### Technical Program Committee
+### Technical Program Committee (TBA)
+
+<!-->
 
 | Name              | Position              | Affiliation                                                                                |
 |:------------------|:----------------------|:-------------------------------------------------------------------------------------------|
@@ -88,71 +90,8 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 | Beatrice Amico	| Postdoc	            | Department of Computer Science, University of Verona, Italy	                             |
 | Chao Yan	        | Postdoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
 
+-->
 
-### Program (Draft)
+### Past edition
 
-
-<table>
-    <thead>
-        <tr>
-            <th style="min-width: 100px;">Time slot</th>
-            <th colspan="3">Activity</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td class="tdCenter">1:00 pm<br>–<br>1:10 pm</td>
-            <td colspan="3">Welcome from the&nbsp;&nbsp;&nbsp;Workshop Chairs</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">1:10 pm<br>–<br>2:10 pm</td>
-            <td colspan="3"><em> Keynote by Prof. Jiang Bian, PhD - "Real-world&nbsp;&nbsp;&nbsp;data, real-world problems, and real-world opportunities with AI"  </em></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td><strong>Paper ID</strong></td>
-            <td><strong>Authors</strong></td>
-            <td><strong>Title</strong></td>
-        </tr>
-        <tr>
-            <td class="tdCenter">2:10 pm<br>–<br>2:30 pm</td>
-            <td class="tdCenter">196</td>
-            <td>Lalitha Donga, Shreya Pramod,&nbsp;&nbsp;&nbsp;Sumita Mishra and Rajendra K. Raj</td>
-            <td>A Proactive Digital Chain of&nbsp;&nbsp;&nbsp;Custody for Internet of Healthcare Things (IoHT) Data</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">2:30 pm<br>–<br>2:50 pm</td>
-            <td colspan="3">Coffee Break&nbsp;&nbsp;&nbsp;@&nbsp;&nbsp;&nbsp;Event/Exhibition Space</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">2:50 pm<br>–<br>3:10 pm</td>
-            <td class="tdCenter">193</td>
-            <td>Priyanka Gupta, Arunachala Amuda&nbsp;&nbsp;&nbsp;Murugan, Deep Chordia, Pavan Kumar Reddy Yannam and Manik Gupta</td>
-            <td>A Comparative Study of Few-Shot&nbsp;&nbsp;&nbsp;Learning Methods for 1-D ECG Time-series Classification</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">3:10 pm<br>–<br>3:30 pm</td>
-            <td class="tdCenter">216</td>
-            <td>Syauki A. Thamrin and Arbee L.P.&nbsp;&nbsp;&nbsp;Chen</td>
-            <td>Detection of Bipolar Disorder on&nbsp;&nbsp;&nbsp;Social Media Data Utilizing Biomedical, Clinical and Mental Health Domain&nbsp;&nbsp;&nbsp;Fine-Tuned Word Embeddings</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">3:30 pm<br>–<br>3:50 pm</td>
-            <td class="tdCenter">219</td>
-            <td>Riccardo Scheda, Matteo&nbsp;&nbsp;&nbsp;Mantovani, Carlo Combi and Stefano Diciotti</td>
-            <td>A key performance indicator to&nbsp;&nbsp;&nbsp;analyze swarm learning performances with EHR</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">3:50 pm<br>–<br>4:10 pm</td>   
-            <td class="tdCenter">209</td>
-            <td>Anuradha Mahato, Prateek&nbsp;&nbsp;&nbsp;Sarangi, Vinod Kurmi, Abhirup Banerjee, Abhishek Goyal and Tanmay Basu</td>
-            <td>Uncertainty Quantification in&nbsp;&nbsp;&nbsp;Deep Learning Framework for Mallampati Classification</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">4:10 pm<br>–<br>4:30 pm</td>
-            <td  class="tdCenter">225</td>
-            <td>Oshani Seneviratne</td>
-            <td>Decentralized, Explainable, and&nbsp;&nbsp;&nbsp;Personalized Mental Health Monitoring</td>
-        </tr>
-    </tbody>
-</table>
+[Link](2023) - 1st edition - In conjunction with the 2024 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024) - 3rd June 2024 - Orlando (FL) - USA
