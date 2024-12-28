@@ -94,4 +94,4 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 
 ### Past edition
 
-[Link](2023) - 1st edition - In conjunction with the 2024 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024) - 3rd June 2024 - Orlando (FL) - USA
+[Link](2024) - 1st edition - In conjunction with the 2024 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024) - 3rd June 2024 - Orlando (FL) - USA
