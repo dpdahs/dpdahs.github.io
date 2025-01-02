@@ -16,7 +16,6 @@ def validate(file)
   puts "Checking #{file}..."
 
   path = File.expand_path "../_site/#{file}", __dir__
-  
   validator_instance = validator(file)
   if validator_instance.nil?
     raise "Validator could not be initialized for file: #{file}"
