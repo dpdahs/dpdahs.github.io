@@ -6,7 +6,7 @@ title: The 2nd Workshop on Data Privacy and Data Analysis in Healthcare Systems 
 
 ## Objectives and Research Topics/Areas
 
-<div class="jt"> 
+<div class="jt">
 
 Modern healthcare systems are generating massive amount of health data that coupled with exponential advances in technology and computing power have the potential for advancing medical research and improving patient care.  The ability to leverage these data also add significant privacy issues, requiring new approaches to investigate potential risks, safeguard patient privacy, and maintain data usability. This interdisciplinary workshop aims at addressing these challenges by bringing together researchers and practitioners to deliberate on technical and non-technical issues, and investigate uncharted challenges and solutions in the domains of Data Privacy and Data Analysis in Healthcare systems.
 
@@ -74,23 +74,6 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
   
 ### Technical Program Committee (TBA)
 
-<!-->
-
-| Name              | Position              | Affiliation                                                                                |
-|:------------------|:----------------------|:-------------------------------------------------------------------------------------------|
-| Matteo Mantovani	| Assistant Professor	| Department of Computer Science, University of Verona, Italy                                |
-| Luca Bonomi	    | Assistant Professor	| Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
-| Xiaoqian Jiang	| Professor	            | School of Biomedical Informatics, UTHealth, TX, USA	                                     |
-| Alex MH Kuo	    | Professor	            | School of Health Information Science, University of Victoria, BC, Canada                   |
-| Damiano Carra	    | Professor	            | Department of Computer Science, University of Verona, Italy 	                             |
-| Eliana Pastor	    | Assistant Professor	| Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     |
-| Liyue Fan	        | Assistant Professor	| College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 |
-| Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics, University of California at San Diego, CA, USA	     |
-| Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     |
-| Beatrice Amico	| Postdoc	            | Department of Computer Science, University of Verona, Italy	                             |
-| Chao Yan	        | Postdoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
-
--->
 
 ### Past edition
 
