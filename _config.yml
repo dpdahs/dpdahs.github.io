@@ -3,5 +3,3 @@ description: In conjunction with the 2025 IEEE International Conference on Healt
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-github-metadata
