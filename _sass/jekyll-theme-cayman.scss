@@ -47,8 +47,8 @@ body {
     left: 10px;
     height: auto;
     width: auto;
-    background: invert(variables.$body-link-color);
-    outline: thick solid invert(variables.$body-link-color);
+    background: color.invert(variables.$body-link-color);
+    outline: thick solid color.invert(variables.$body-link-color);
   }
 }
 
