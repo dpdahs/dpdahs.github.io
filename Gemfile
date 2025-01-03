@@ -6,4 +6,6 @@ gem "html-proofer", "~> 3.0"
 
 gem "csv"
 
+gem "faraday-retry"
+
 gemspec
