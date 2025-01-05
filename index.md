@@ -50,7 +50,7 @@ The reviewing process will be **single-blind**.
 
 * Deadline for full paper submissions: **March 1st, 2025**
 * Notification of workshop paper acceptance: **March 18th, 2025**
-* Camera ready workshop paper due: **April 1st, 2025**
+* Camera ready workshop paper due: **March 28th, 2025**
 * Workshop Day (firm): **TBA** (between June 18th and June 21th, 2025)
 
 ## Workshop Organizers
