@@ -44,7 +44,7 @@ Accepted papers will be published in the IEEE ICHI 2025 proceedings (on IEEE Xpl
 ## Review procedure
 
 All submitted papers will be reviewed by 3 international program committees.
-The reviewing process will be **single-blind**.
+The reviewing process will be **double-blind**.
 
 ## Important Dates
 
