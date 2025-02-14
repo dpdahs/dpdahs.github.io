@@ -41,10 +41,13 @@ Accepted paper formats (references are counted within the page limits):
 
 Accepted papers will be published in the IEEE ICHI 2025 proceedings (on IEEE Xplore – Indexed on Scopus and many other platforms). For further information, please see IEEE ICHI 2025 web page @ [https://events.dimes.unical.it/ichi2025/](https://events.dimes.unical.it/ichi2025/).
 
+At least one author of each accepted paper to the workshop must register and present the paper at the conference.
+
+
 ## Review procedure
+The reviewing process will be **single-blind**.
 
 All submitted papers will be reviewed by 3 international program committees.
-The reviewing process will be **single-blind**.
 
 ## Important Dates
 
