@@ -44,13 +44,13 @@ Accepted papers will be published in the IEEE ICHI 2025 proceedings (on IEEE Xpl
 ## Review procedure
 
 All submitted papers will be reviewed by 3 international program committees.
-The reviewing process will be **double-blind**.
+The reviewing process will be **single-blind**.
 
 ## Important Dates
 
-* Deadline for full paper submissions: **March 1st, 2025**
-* Notification of workshop paper acceptance: **March 18th, 2025**
-* Camera ready workshop paper due: **March 28th, 2025**
+* Deadline for full paper submissions: **March 15th, 2025**
+* Notification of workshop paper acceptance: **March 25th, 2025**
+* Camera ready workshop paper due: **April 3rd, 2025**
 * Workshop Day (firm): **TBA** (between June 18th and June 21st, 2025)
 
 ## Workshop Organizers
@@ -64,7 +64,7 @@ The reviewing process will be **double-blind**.
     <td class="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
   </tr>
   <tr>
-    <td class="tg-0lax toppp"><img src="https://www.vumc.org/dbmi/sites/default/files/people/headshots-LB-small.jpg" alt="Luca Bonomi" width="150"></td>
+    <td class="tg-0lax toppp"><img src="LucaBonomi.jpg" alt="Luca Bonomi" width="150"></td>
     <td class="pad tg-0lax tg-cly1">Luca Bonomi, Ph.D.<br>
 Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA<br>
 <a href="mailto:luca.bonomi@vumc.org">luca.bonomi@vumc.org</a></td>
@@ -72,8 +72,20 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 </tbody>
 </table>
   
-### Technical Program Committee (TBA)
+### Technical Program Committee
 
+| Name              | Position              | Affiliation                                                                                |
+|:------------------|:----------------------|:-------------------------------------------------------------------------------------------|
+| Matteo Mantovani	| Assistant Professor	| Department of Computer Science, University of Verona, Italy                                |
+| Luca Bonomi	    | Assistant Professor	| Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
+| Xiaoqian Jiang	| Professor	            | School of Biomedical Informatics, UTHealth, TX, USA	                                     |
+| Alex MH Kuo	    | Professor	            | School of Health Information Science, University of Victoria, BC, Canada                   |
+| Damiano Carra	    | Professor	            | Department of Computer Science, University of Verona, Italy 	                             |
+| Eliana Pastor	    | Assistant Professor	| Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     |
+| Liyue Fan	        | Assistant Professor	| College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 |
+| Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics & Data Science, Yale University, CT, USA	     |
+| Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     |
+| Chao Yan	        | Postdoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
 
 ### Past edition
 
