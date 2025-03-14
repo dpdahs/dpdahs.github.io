@@ -54,7 +54,7 @@ All submitted papers will be reviewed by 3 international program committees.
 * Deadline for full paper submissions: ~~March 15th, 2025~~ **March 23th, 2025**
 * Notification of workshop paper acceptance: ~~March 25th, 2025~~ **April 2nd, 2025**
 * Camera ready workshop paper due: ~~April 3rd, 2025~~ **April 10th, 2025**
-* Workshop Day (firm): June 18th, 2025
+* Workshop Day (firm): **June 18th, 2025**
 
 ## Workshop Organizers
 
