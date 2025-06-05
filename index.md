@@ -96,7 +96,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 <table>
     <thead>
         <tr>
-            <th style="min-width: 100px;">Time slot</th>
+            <th style="min-width: 110px;">Time slot</th>
             <th colspan="3">Activity</th>
         </tr>
     </thead>
@@ -112,8 +112,8 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
         <tr>
             <td></td>
             <td><strong>Paper ID</strong></td>
-            <td><strong>Authors</strong></td>
-            <td><strong>Title</strong></td>
+            <td style="width: 30%;"><strong>Authors</strong></td>
+            <td style="width: 50%;"><strong>Title</strong></td>
         </tr>
         <tr>
             <td class="tdCenter">11:50 am<br>–<br>12:10 pm</td>
