@@ -90,6 +90,75 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 | Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     |
 | Chao Yan	        | Postdoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
 
+### Program (Draft)
+
+
+<table>
+    <thead>
+        <tr>
+            <th style="min-width: 100px;">Time slot</th>
+            <th colspan="3">Activity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="tdCenter">11:00 am<br>–<br>11:10 am</td>
+            <td colspan="3">Welcome from the Workshop Chairs (Matteo Mantovani, PhD)</td>
+        </tr>
+        <tr>
+            <td class="tdCenter">11:10 am<br>–<br>11:50 pm</td>
+            <td colspan="3"><em> Keynote (Tentative) - Work in progress</em></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><strong>Paper ID</strong></td>
+            <td><strong>Authors</strong></td>
+            <td><strong>Title</strong></td>
+        </tr>
+        <tr>
+            <td class="tdCenter">11:50 am<br>–<br>12:10 pm</td>
+            <td class="tdCenter">244</td>
+            <td>Agni Delvinioti, Danae Lekka, Giulio Pagliari, Efstathios Kanavos, Jakob Fabian Lehmann, Rain Jõgi, Marjolein G. J. Brusse-Keizer, Anke Lenferink, Konstantina Kostopoulou, Alice Luraschi, Monique Tabak and Sofoklis Kyriazakos</td>
+            <td>A Real-Time COPD Exacerbation Detection Algorithm Using multi-morbid symptom diaries: Insights from a Multi-Site Study</td>
+        </tr>
+        <tr>
+            <td class="tdCenter">12:10 pm<br>–<br>12:30 pm</td>
+            <td class="tdCenter">262</td> <!-- Remote -->
+            <td>Adithya Rajnarayanan and Ritika Jain</td>
+            <td>Scalogram Image-Based Texture Features for Robust Epileptic Seizure Detection Under Noisy Conditions</td>
+        </tr>
+        <tr>
+            <td class="tdCenter">12:30 pm<br>–<br>2:00 pm</td>
+            <td colspan="3">Launch</td>
+        </tr>
+        <tr>
+            <td class="tdCenter">2:10 pm<br>–<br>2:30 pm</td>
+            <td class="tdCenter">230</td> <!-- Remote -->
+            <td>Niruthiha Selvanayagam</td>
+            <td>Multidimensional Analysis of Specific Language Impairment Using Unsupervised Learning Through PCA and Clustering</td>
+        </tr>
+        <tr>
+            <td class="tdCenter">2:30 pm<br>–<br>2:50 pm</td>
+            <td  class="tdCenter">263</td> <!-- SHORT -->
+            <td>Patrizia Quaranta, Roberto Pietrantuono and Giuseppe Cascone</td>
+            <td>Correlation and Causal Analysis of Occupational Health Data in the Maritime Domain</td>
+        </tr>
+        <tr>
+            <td class="tdCenter">2:50 pm<br>–<br>3:10 pm</td>  
+            <td class="tdCenter">243</td> <!-- Remote -->
+            <td>Yue Xu, Sirihaasa Nallamothu, Cory Culbertson and Haohan Wang</td>
+            <td>Privacy-Preserving Analysis of Wearable Device Data for Monitoring Health Risks</td>
+        </tr>
+        <tr>
+            <td class="tdCenter">3:10 pm<br>–<br>3:30 pm</td> 
+            <td class="tdCenter">261</td> <!-- SHORT -->
+            <td>Francesca Angelone, Alessandra Franco, Noemi Pisani, Rita Granata, Luca Lavorgna, Mario Sansone, Francesco Amato and Alfonso Maria Ponsiglione</td>
+            <td>An Explainable AI Approach for Periodontitis  Severity Classification from Intraoral Images</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### Past edition
 
 [Link](2024.html) - 1st edition - In conjunction with the 2024 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024) - 3rd June 2024 - Orlando (FL) - USA
