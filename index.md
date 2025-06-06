@@ -96,7 +96,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 <table>
     <thead>
         <tr>
-            <th style="min-width: 110px;">Time slot</th>
+            <th style="min-width: 110px;">Time slot<br>(CEST)</th>
             <th colspan="3">Activity</th>
         </tr>
     </thead>
