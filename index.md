@@ -107,7 +107,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
         </tr>
         <tr>
             <td class="tdCenter">11:10 am<br>–<br>11:50 pm</td>
-            <td colspan="3"><em> Keynote by Prof. Pietro Hiram Guzzi, PhD</em></td>
+            <td colspan="3"><em> Keynote by Prof. Pietro Hiram Guzzi, PhD - "Network Science in Biomedicine and Bioinformatics"</em></td>
         </tr>
         <tr>
             <td></td>
