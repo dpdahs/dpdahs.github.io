@@ -90,7 +90,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 | Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     |
 | Chao Yan	        | Postdoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
 
-### Program (Draft)
+### Program
 
 
 <table>
@@ -129,7 +129,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
         </tr>
         <tr>
             <td class="tdCenter">12:30 pm<br>–<br>2:00 pm</td>
-            <td colspan="3">Launch</td>
+            <td colspan="3">Lunch</td>
         </tr>
         <tr>
             <td class="tdCenter">2:10 pm<br>–<br>2:30 pm</td>
