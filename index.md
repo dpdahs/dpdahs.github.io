@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The 3rd Workshop on Data Privacy and Data Analysis in Healthcare Systems (DPDAHS)
+description: In conjunction with the 2026 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2026) <br> 1st - 4th June 2026 - Minneapolis, MN - USA
 ---
 
 
