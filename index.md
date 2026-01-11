@@ -84,79 +84,14 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 | Damiano Carra	    | Professor	            | Department of Computer Science, University of Verona, Italy 	                             |
 | Liyue Fan	        | Associate Professor	| College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 |
 | Eliana Pastor	    | Assistant Professor	| Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     |
-| Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics & Data Science, Yale University, CT, USA	     |
+| Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics & Data Science, Yale University, CT, USA	             |
 | Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     |
-| Chao Yan	        | Postdoc	            | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
+| Idio Guarino	    | Assistant Professor	| Department of Computer Science and Engineering, University of Bologna, Italy               |
+| Chao Yan	        | Research Instructor   | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
 
 ### Program
 
 T.B.A.
-
-<!--<table>
-    <thead>
-        <tr>
-            <th style="min-width: 110px;">Time slot<br>(CEST)</th>
-            <th colspan="3">Activity</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td class="tdCenter">11:00 am<br>–<br>11:10 am</td>
-            <td colspan="3">Welcome from the Workshop Chairs (Matteo Mantovani, PhD)</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">11:10 am<br>–<br>11:50 pm</td>
-            <td colspan="3"><em> Keynote by Prof. Pietro Hiram Guzzi, PhD - "Network Science in Biomedicine and Bioinformatics"</em></td>
-        </tr>
-        <tr>
-            <td></td>
-            <td><strong>Paper ID</strong></td>
-            <td style="width: 30%;"><strong>Authors</strong></td>
-            <td style="width: 50%;"><strong>Title</strong></td>
-        </tr>
-        <tr>
-            <td class="tdCenter">11:50 am<br>–<br>12:10 pm</td>
-            <td class="tdCenter">244</td>
-            <td>Agni Delvinioti, Danae Lekka, Giulio Pagliari, Efstathios Kanavos, Jakob Fabian Lehmann, Rain Jõgi, Marjolein G. J. Brusse-Keizer, Anke Lenferink, Konstantina Kostopoulou, Alice Luraschi, Monique Tabak and Sofoklis Kyriazakos</td>
-            <td>A Real-Time COPD Exacerbation Detection Algorithm Using multi-morbid symptom diaries: Insights from a Multi-Site Study</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">12:10 pm<br>–<br>12:30 pm</td>
-            <td class="tdCenter">262</td> 
-            <td>Adithya Rajnarayanan and Ritika Jain</td>
-            <td>Scalogram Image-Based Texture Features for Robust Epileptic Seizure Detection Under Noisy Conditions</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">12:30 pm<br>–<br>2:00 pm</td>
-            <td colspan="3">Lunch</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">2:10 pm<br>–<br>2:30 pm</td>
-            <td class="tdCenter">230</td>  
-            <td>Niruthiha Selvanayagam</td>
-            <td>Multidimensional Analysis of Specific Language Impairment Using Unsupervised Learning Through PCA and Clustering</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">2:30 pm<br>–<br>2:50 pm</td>
-            <td  class="tdCenter">263</td> 
-            <td>Patrizia Quaranta, Roberto Pietrantuono and Giuseppe Cascone</td>
-            <td>Correlation and Causal Analysis of Occupational Health Data in the Maritime Domain</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">2:50 pm<br>–<br>3:10 pm</td>  
-            <td class="tdCenter">243</td> 
-            <td>Yue Xu, Sirihaasa Nallamothu, Cory Culbertson and Haohan Wang</td>
-            <td>Privacy-Preserving Analysis of Wearable Device Data for Monitoring Health Risks</td>
-        </tr>
-        <tr>
-            <td class="tdCenter">3:10 pm<br>–<br>3:30 pm</td> 
-            <td class="tdCenter">261</td> 
-            <td>Francesca Angelone, Alessandra Franco, Noemi Pisani, Rita Granata, Luca Lavorgna, Mario Sansone, Francesco Amato and Alfonso Maria Ponsiglione</td>
-            <td>An Explainable AI Approach for Periodontitis  Severity Classification from Intraoral Images</td>
-        </tr>
-    </tbody>
-</table>
--->
 
 ### Past edition
 
