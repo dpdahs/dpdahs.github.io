@@ -62,7 +62,7 @@ All submitted papers will be reviewed by 3 international program committees.
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="https://www.di.univr.it/documenti//Persona/foto/foto765713.jpg" alt="Matteo Mantovani" width="150"></td>
+    <td class="tg-0lax"><img src="MatteoMantovani.jpg" alt="Matteo Mantovani" width="150"></td>
     <td class="pad tg-0lax tg-cly1">Matteo Mantovani, Ph.D.<br>Department of Computer Science, University of Verona, Italy<br><a href="mailto:matteo.mantovani@univr.it">matteo.mantovani@univr.it</a> <br>  </td>
   </tr>
   <tr>
