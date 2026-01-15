@@ -76,7 +76,9 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
   
 ### Technical Program Committee
 
-| Name              | Position              | Affiliation                                                                                |
+T.B.A.
+
+<!-- | Name              | Position              | Affiliation                                                                                |
 |:------------------|:----------------------|:-------------------------------------------------------------------------------------------|
 | Matteo Mantovani	| Assistant Professor	| Department of Computer Science, University of Verona, Italy                                |
 | Luca Bonomi	    | Assistant Professor	| Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
@@ -88,7 +90,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 | Tsung-Ting Kuo	| Assistant Professor	| Department of Biomedical Informatics & Data Science, Yale University, CT, USA	             |
 | Gamze Gürsoy	    | Assistant Professor	| Department of Biomedical Informatics, Columbia University, NY, USA	                     |
 | Idio Guarino	    | Assistant Professor	| Department of Computer Science and Engineering, University of Bologna, Italy               |
-| Chao Yan	        | Research Instructor   | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
+| Chao Yan	        | Research Instructor   | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA | -->
 
 ### Program
 
