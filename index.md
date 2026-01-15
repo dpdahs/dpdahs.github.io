@@ -36,7 +36,7 @@ Accepted paper formats (references are counted within the page limits):
 * Short paper (up to **6** pages)
 * Regular paper (up to **10** pages)
 
-[Please click here to Submit your paper!](https://easychair.org/conferences/?conf=ieeeichi2025)
+[Please click here to Submit your paper!](https://easychair.org/conferences/?conf=ieeeichi2026)
 
 Accepted papers will be published in the IEEE ICHI 2026 proceedings (on IEEE Xplore – Indexed on Scopus and many other platforms). For further information, please see IEEE ICHI 2026 web page @ [https://zhang-informatics.github.io/ICHI2026/](https://zhang-informatics.github.io/ICHI2026/).
 
