@@ -74,19 +74,19 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
   
 ### Technical Program Committee
 
- | Name                   | Position              | Affiliation                                                                                |
-|:------------------------|:----------------------|:-------------------------------------------------------------------------------------------|
-| Matteo Mantovani, PhD	  | Assistant Professor	  | Department of Computer Science, University of Verona, Italy                                |
-| Luca Bonomi, PhD	      | Assistant Professor	  | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
-| Xiaoqian Jiang, PhD	    | Professor	            | School of Biomedical Informatics, UTHealth, TX, USA	                                       |
-| Alex MH Kuo, PhD	      | Professor	            | School of Health Information Science, University of Victoria, BC, Canada                   |
-| Damiano Carra, PhD	    | Professor	            | Department of Computer Science, University of Verona, Italy 	                             |
-| Liyue Fan, PhD	        | Associate Professor	  | College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 |
-| Eliana Pastor, PhD	    | Assistant Professor	  | Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     |
-| Tsung-Ting Kuo, PhD	    | Assistant Professor	  | Department of Biomedical Informatics & Data Science, Yale University, CT, USA	             |
-| Gamze Gürsoy, PhD	      | Assistant Professor	  | Department of Biomedical Informatics, Columbia University, NY, USA	                       |
-| Idio Guarino, PhD	      | Assistant Professor	  | Department of Computer Science and Engineering, University of Bologna, Italy               |
-| Chao Yan, PhD	          | Research Instructor   | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
+ | Name                   | Affiliation                                                                                |
+|:------------------------|:-------------------------------------------------------------------------------------------|
+| Matteo Mantovani, PhD	  | Department of Computer Science, University of Verona, Italy                                |
+| Luca Bonomi, PhD	      | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
+| Xiaoqian Jiang, PhD	    | School of Biomedical Informatics, UTHealth, TX, USA	                                       |
+| Alex MH Kuo, PhD	      | School of Health Information Science, University of Victoria, BC, Canada                   |
+| Damiano Carra, PhD	    | Department of Computer Science, University of Verona, Italy 	                             |
+| Liyue Fan, PhD	        | College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 |
+| Eliana Pastor, PhD	    | Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     |
+| Tsung-Ting Kuo, PhD	    | Department of Biomedical Informatics & Data Science, Yale University, CT, USA	             |
+| Gamze Gürsoy, PhD	      | Department of Biomedical Informatics, Columbia University, NY, USA	                       |
+| Idio Guarino, PhD	      | Department of Computer Science and Engineering, University of Bologna, Italy               |
+| Chao Yan, PhD	          | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
 
 ### Program
 
