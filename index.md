@@ -27,7 +27,7 @@ Topics of interest include, but are not limited to:
 ## Paper submission instructions
 
 This workshop will only accept papers that have not been previously published.
-Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines ( [Click here](https://www.ieee.org/conferences/publishing/templates.html)).
+Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines ([Click here](https://www.ieee.org/conferences/publishing/templates.html)).
 
 Accepted paper formats (references are counted within the page limits):
 
@@ -49,9 +49,9 @@ All submitted papers will be reviewed by 3 international program committees.
 
 ## Important Dates
 
-* Deadline for paper submissions: **March 15th, 2026**
-* Notification of workshop paper acceptance: **March 30th, 2026**
-* Camera ready workshop paper due: **April 7th, 2026**
+* Deadline for paper submissions: ~~March 15th, 2026~~ **March 23th, 2026**
+* Notification of workshop paper acceptance: ~~March 30th, 2026~~ **April 3rd, 2026**
+* Camera ready workshop paper due: ~~April 7th, 2026~~ **April 9th, 2026**
 * Workshop Day (firm): **June 1st, 2026**
 
 ## Workshop Organizers
