@@ -99,66 +99,66 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
     <thead>
         <tr class="gradientRow">
             <th style="min-width: 110px;">Time slot<br></th>
-            <th colspan="3">Activity</th>
+            <th colspan="2">Activity</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td class="tdCenter">8:15 AM<br>–<br>8:25 AM</td>
-            <td colspan="3">Welcome</td>
+            <td colspan="2">Welcome</td>
         </tr>
         <tr>
             <td></td>
-            <td colspan="2" style="width: 55%;"><strong>Title</strong></td>
+            <td  style="width: 55%;"><strong>Title</strong></td>
             <td style="width: 45%;"><strong>Authors</strong></td>
         </tr>
         <tr>
             <td class="tdCenter">8:25 AM<br>–<br>8:40 AM</td>
-            <td colspan="2">Hardware-Accelerated AES for Privacy-Preserving Healthcare Data Pipelines in Remote Patient Monitoring</td>
+            <td >Hardware-Accelerated AES for Privacy-Preserving Healthcare Data Pipelines in Remote Patient Monitoring</td>
             <td>Sai Manasa Alamuri and Zahra Najafi</td>
         </tr>
         <tr>
             <td class="tdCenter">8:40 AM<br>–<br>8:55 AM</td>
-            <td colspan="2">Willingness to Share: What Data are Participants Willing to Share for Mental Health Screening</td>
+            <td >Willingness to Share: What Data are Participants Willing to Share for Mental Health Screening</td>
             <td>Avantika Shrestha, Kevin Hickey and Elke Rundensteiner</td>
         </tr>
         <tr>
             <td class="tdCenter">8:55 AM<br>–<br>9:10 AM</td>
-            <td colspan="2">FedHemo: A Federated CTAB-GAN+ Framework for Privacy-Preserving Non-Invasive Hemoglobin Prediction using Smartphone-based PPG Signals</td>
+            <td >FedHemo: A Federated CTAB-GAN+ Framework for Privacy-Preserving Non-Invasive Hemoglobin Prediction using Smartphone-based PPG Signals</td>
             <td>Nafi Us Sabbir Sabith, Nathaniel Parise, Sachin Shrestha, Tasnia Zaman, Iysa Iqbal, Anushka Kolli, Masud Rabbani and Sheikh Iqbal Ahamed</td>
         </tr>
         <tr>
             <td class="tdCenter">9:10 AM<br>–<br>9:25 AM</td>
-            <td colspan="2">A Lightweight Patch-Based Transformer for Subject-Independent Automated Seizure Detection</td>
+            <td >A Lightweight Patch-Based Transformer for Subject-Independent Automated Seizure Detection</td>
             <td>Adithya Rajnarayanan</td>
         </tr>
         <tr>
             <td class="tdCenter">9:25 AM<br>–<br>9:35 AM</td>
-            <td colspan="2">Differentially Private RAG for Clinical Decision Support from Electronic Health Records</td>
+            <td >Differentially Private RAG for Clinical Decision Support from Electronic Health Records</td>
             <td>Arun Ramaswamy, Vishnu Vinod, Sivakumar Krishnamoorthy, Ramayya Krishnan, Krishna Pillutla and Rema Padman</td>
         </tr>
         <tr>
             <td class="tdCenter">9:35 AM<br>–<br>9:45 AM</td>
-            <td colspan="2">Machine Learning for Medical Student Learning: Can LLMs Evaluate Sample Clinical Encounters and Provide Trustworthy Decision Support to Expert Faculty?</td>
+            <td >Machine Learning for Medical Student Learning: Can LLMs Evaluate Sample Clinical Encounters and Provide Trustworthy Decision Support to Expert Faculty?</td>
             <td>Vijay Koduri, Aarav Purohit, Noah Jacob, Aayush Visaria, Jay Naik, Sarang Kim, Siobhan Corbett, Advaith Bongu, Archana Pradhan, Carol Terregino and Naveena Yanamala</td>
         </tr>
         <tr>
             <td class="tdCenter">9:45 AM<br>–<br>10:15 AM</td>
-            <td colspan="3" style="background-color: #e6e6e6;">Coffee Break</td>
+            <td colspan="2" style="background-color: #e6e6e6;">Coffee Break</td>
         </tr>
         <tr>
             <td class="tdCenter">10:15 AM<br>–<br>11:15 AM</td>
-            <td colspan="2"><em><b>Keynote "A New Paradigm for Medical Discovery and Healthcare through Artificial Intelligence"</b></em></td>
+            <td ><em><b>Keynote "A New Paradigm for Medical Discovery and Healthcare through Artificial Intelligence"</b></em></td>
             <td>Prof. Yonghui Wu, PhD</td>
         </tr>
         <tr>
             <td class="tdCenter">11:15 AM<br>–<br>11:30 AM</td>
-            <td colspan="2">One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification</td>
+            <td >One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification</td>
             <td>Afsaneh Mahanipour and Hana Khamfroush</td>
         </tr>
         <tr>
             <td class="tdCenter">11:30 AM<br>–<br>11:45 AM</td>
-            <td colspan="3">Final Discussion - Closing Remarks</td>
+            <td colspan="2">Final Discussion - Closing Remarks</td>
         </tr>
     </tbody>
 </table>
