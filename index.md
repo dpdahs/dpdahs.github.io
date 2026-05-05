@@ -150,7 +150,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 
 <table class="sameWidth">
     <thead>
-        <tr>
+        <tr class="gradientRow">
             <th style="min-width: 110px;">Time slot<br></th>
             <th colspan="2">Activity</th>
         </tr>
