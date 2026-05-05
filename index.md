@@ -75,29 +75,82 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
   
 ### Technical Program Committee
 
- | Name                   | Affiliation                                                                                |
-|:------------------------|:-------------------------------------------------------------------------------------------|
-| Matteo Mantovani, PhD	  | Department of Computer Science, University of Verona, Italy                                |
-| Luca Bonomi, PhD	      | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
-| Xiaoqian Jiang, PhD	    | School of Biomedical Informatics, UTHealth, TX, USA	                                       |
-| Alex MH Kuo, PhD	      | School of Health Information Science, University of Victoria, BC, Canada                   |
-| Damiano Carra, PhD	    | Department of Computer Science, University of Verona, Italy 	                             |
-| Liyue Fan, PhD	        | College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA	 |
-| Eliana Pastor, PhD	    | Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.	     |
-| Tsung-Ting Kuo, PhD	    | Department of Biomedical Informatics & Data Science, Yale University, CT, USA	             |
-| Gamze Gürsoy, PhD	      | Department of Biomedical Informatics, Columbia University, NY, USA	                       |
-| Idio Guarino, PhD	      | Department of Computer Science and Engineering, University of Bologna, Italy               |
-| Chao Yan, PhD	          | Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA |
-| Yipeng Shi, PhD	        | Apple Inc., USA	                                                                           |
-| Ananya Mantravadi       | Centific Global Solutions, USA                                                             |
-| Harshit	Rajgarhia       | Centific Global Solutions, USA                                                             |
-| Shivali Dalmia          | Centific Global Solutions, USA                                                             |
+<table class="sameWidth">
+    <thead>
+        <tr class="gradientRow">
+            <th>Name</th>
+            <th>Affiliation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Matteo Mantovani, PhD</td>
+            <td>Department of Computer Science, University of Verona, Italy</td>
+        </tr>
+        <tr>
+            <td>Luca Bonomi, PhD</td>
+            <td>Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA</td>
+        </tr>
+        <tr>
+            <td>Xiaoqian Jiang, PhD</td>
+            <td>School of Biomedical Informatics, UTHealth, TX, USA</td>
+        </tr>
+        <tr>
+            <td>Alex MH Kuo, PhD</td>
+            <td>School of Health Information Science, University of Victoria, BC, Canada</td>
+        </tr>
+        <tr>
+            <td>Damiano Carra, PhD</td>
+            <td>Department of Computer Science, University of Verona, Italy</td>
+        </tr>
+        <tr>
+            <td>Liyue Fan, PhD</td>
+            <td>College of Computing and Informatics, University of North Carolina at Charlotte, NC, USA</td>
+        </tr>
+        <tr>
+            <td>Eliana Pastor, PhD</td>
+            <td>Department of Control and Computer Engineering (DAUIN), Politecnico di Torino, Italy.</td>
+        </tr>
+        <tr>
+            <td>Tsung-Ting Kuo, PhD</td>
+            <td>Department of Biomedical Informatics &amp; Data Science, Yale University, CT, USA</td>
+        </tr>
+        <tr>
+            <td>Gamze Gürsoy, PhD</td>
+            <td>Department of Biomedical Informatics, Columbia University, NY, USA</td>
+        </tr>
+        <tr>
+            <td>Idio Guarino, PhD</td>
+            <td>Department of Computer Science and Engineering, University of Bologna, Italy</td>
+        </tr>
+        <tr>
+            <td>Chao Yan, PhD</td>
+            <td>Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC), TN, USA</td>
+        </tr>
+        <tr>
+            <td>Yipeng Shi, PhD</td>
+            <td>Apple Inc., USA</td>
+        </tr>
+        <tr>
+            <td>Ananya Mantravadi</td>
+            <td>Centific Global Solutions, USA</td>
+        </tr>
+        <tr>
+            <td>Harshit Rajgarhia</td>
+            <td>Centific Global Solutions, USA</td>
+        </tr>
+        <tr>
+            <td>Shivali Dalmia</td>
+            <td>Centific Global Solutions, USA</td>
+        </tr>
+    </tbody>
+</table>
 
 ### Program
 
-<table>
+<table class="sameWidth">
     <thead>
-        <tr class="gradientRow">
+        <tr>
             <th style="min-width: 110px;">Time slot<br></th>
             <th colspan="2">Activity</th>
         </tr>
