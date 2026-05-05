@@ -22,7 +22,7 @@ Topics of interest include, but are not limited to:
 
 **3. Decentralized Data Analysis**: exploring emerging techniques for leveraging data across multiple sites including but not limited to blockchain-based technology, federated learning and swarm learning
 
-**4. Health Data Analysis Infrastructure**: including but not limited to methodologies and tools, visualization analytics, health management/repositories, and real-world  case studies
+**4. Health Data Analysis Infrastructure**: including but not limited to methodologies and tools, visualization analytics, health management/repositories, and real-world case studies
 
 ## Paper submission instructions
 
@@ -45,11 +45,11 @@ At least one author of each accepted paper to the workshop must register and pre
 ## Review procedure
 The reviewing process will be **single-blind**.
 
-All submitted papers will be reviewed by 3 international program committees.
+All submitted papers will be reviewed by 3 international program committee members.
 
 ## Important Dates
 
-* Deadline for paper submissions: ~~March 15th, 2026~~ **March 23th, 2026**
+* Deadline for paper submissions: ~~March 15th, 2026~~ **March 23rd, 2026**
 * Notification of workshop paper acceptance: ~~March 30th, 2026~~ **April 3rd, 2026**
 * Camera ready workshop paper due: ~~April 7th, 2026~~ **April 9th, 2026**
 * Workshop Day (firm): **June 1st, 2026**
@@ -98,7 +98,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
 <table>
     <thead>
         <tr class="gradientRow">
-            <th style="min-width: 110px;">Time slot<br>(CEST)</th>
+            <th style="min-width: 110px;">Time slot<br></th>
             <th colspan="3">Activity</th>
         </tr>
     </thead>
@@ -163,8 +163,8 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
     </tbody>
 </table>
 
-### Past edition
+### Past editions
 
-[Link](2025.html) - 2nd edition - In conjunction with the 2025 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2025) - 3rd June 2024 - Orlando (FL) - USA
+[Link](2025.html) - 2nd edition - In conjunction with the 2025 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2025) - 18th June 2025 - Rende (CS) - Italy
 
 [Link](2024.html) - 1st edition - In conjunction with the 2024 IEEE International Conference on Healthcare Informatics (IEEE ICHI 2024) - 3rd June 2024 - Orlando (FL) - USA
