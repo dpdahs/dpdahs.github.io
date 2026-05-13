@@ -157,7 +157,7 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
     </thead>
     <tbody>
         <tr>
-            <td class="tdCenter">8:15 AM<br>–<br>8:25 AM</td>
+            <td class="tdCenter">8:30 AM<br>–<br>8:40 AM</td>
             <td colspan="2">Welcome</td>
         </tr>
         <tr>
@@ -166,37 +166,37 @@ Department of Biomedical Informatics, Vanderbilt University Medical Center (VUMC
             <td style="width: 45%;"><strong>Authors</strong></td>
         </tr>
         <tr>
-            <td class="tdCenter">8:25 AM<br>–<br>8:40 AM</td>
+            <td class="tdCenter">8:40 AM<br>–<br>8:55 AM</td>
             <td >Hardware-Accelerated AES for Privacy-Preserving Healthcare Data Pipelines in Remote Patient Monitoring</td>
             <td>Sai Manasa Alamuri and Zahra Najafi</td>
         </tr>
         <tr>
-            <td class="tdCenter">8:40 AM<br>–<br>8:55 AM</td>
+            <td class="tdCenter">8:55 AM<br>–<br>9:10 AM</td>
             <td >Willingness to Share: What Data are Participants Willing to Share for Mental Health Screening</td>
             <td>Avantika Shrestha, Kevin Hickey and Elke Rundensteiner</td>
         </tr>
         <tr>
-            <td class="tdCenter">8:55 AM<br>–<br>9:10 AM</td>
+            <td class="tdCenter">9:10 AM<br>–<br>9:25 AM</td>
             <td >FedHemo: A Federated CTAB-GAN+ Framework for Privacy-Preserving Non-Invasive Hemoglobin Prediction using Smartphone-based PPG Signals</td>
             <td>Nafi Us Sabbir Sabith, Nathaniel Parise, Sachin Shrestha, Tasnia Zaman, Iysa Iqbal, Anushka Kolli, Masud Rabbani and Sheikh Iqbal Ahamed</td>
         </tr>
         <tr>
-            <td class="tdCenter">9:10 AM<br>–<br>9:25 AM</td>
+            <td class="tdCenter">9:25 AM<br>–<br>9:40 AM</td>
             <td >A Lightweight Patch-Based Transformer for Subject-Independent Automated Seizure Detection</td>
             <td>Adithya Rajnarayanan</td>
         </tr>
         <tr>
-            <td class="tdCenter">9:25 AM<br>–<br>9:35 AM</td>
+            <td class="tdCenter">9:40 AM<br>–<br>9:50 AM</td>
             <td >Differentially Private RAG for Clinical Decision Support from Electronic Health Records</td>
             <td>Arun Ramaswamy, Vishnu Vinod, Sivakumar Krishnamoorthy, Ramayya Krishnan, Krishna Pillutla and Rema Padman</td>
         </tr>
         <tr>
-            <td class="tdCenter">9:35 AM<br>–<br>9:45 AM</td>
+            <td class="tdCenter">9:50 AM<br>–<br>10:00 AM</td>
             <td >Machine Learning for Medical Student Learning: Can LLMs Evaluate Sample Clinical Encounters and Provide Trustworthy Decision Support to Expert Faculty?</td>
             <td>Vijay Koduri, Aarav Purohit, Noah Jacob, Aayush Visaria, Jay Naik, Sarang Kim, Siobhan Corbett, Advaith Bongu, Archana Pradhan, Carol Terregino and Naveena Yanamala</td>
         </tr>
         <tr>
-            <td class="tdCenter">9:45 AM<br>–<br>10:15 AM</td>
+            <td class="tdCenter">10:00 AM<br>–<br>10:15 AM</td>
             <td colspan="2" style="background-color: #e6e6e6;">Coffee Break</td>
         </tr>
         <tr>
